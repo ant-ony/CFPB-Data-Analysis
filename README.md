@@ -37,7 +37,17 @@ Information contained in the raw_data file.
 * *Exploratory Data Analysis*:
     - Obtains descriptive statistics summarizing central tendency, dispersion and shape of the dataset’s distribution
     - Creates visuals in order to explore the relationships existent in the dataset
-    - Conclusions:  In our single company analysis, there are a number of business proposals we can make centered around mortgages, bank services, and checking/savings accounts. The top priority to address consumer complaints should be around payments/managing a mortgage. The next would be the account opening, closing, management process. Lastly, would be to address deposits and withdrawals complaints.  Proposals include: For Mortgages: 1. Raise standards for the underwriting process to reduce the number of consumers who may run into difficulty making payments. 2. Hands-on approach to outreach when a customer is late on a payment, mailing out a notice could be combined with outreach from a local Branch representative who may be familiar with the customer and could understand what their situation is and properly advise. For Account Opening, Closing, and Management: 1. Simplify and target the pain points of account opening so that the process is less troublesome and confusing. 2. Better training for employees to emphasize specific disclosures and rules. 3. For the mobile opening process, highlight key areas of the terms of service / disclosures either through video or quick summaries. For Deposits and Withdrawals: 1. Greater communication to the customer from branch representatives on why a deposit would be held up. 2. Including on the receipt when the funds will be available as Bank of America does.
+    - Conclusions:  In our single company analysis, there are a number of business proposals we can make centered around mortgages, bank services, and checking/savings accounts. The top priority to address consumer complaints should be around payments/managing a mortgage. The next would be the account opening, closing, management process. Lastly, would be to address deposits and withdrawals complaints.  Proposals include: 
+        * For Mortgages: 
+            - 1. Raise standards for the underwriting process to reduce the number of consumers who may run into difficulty making payments. 
+            - 2. Hands-on approach to outreach when a customer is late on a payment, mailing out a notice could be combined with outreach from a local Branch representative who may be familiar with the customer and could understand what their situation is and properly advise. 
+        * For Account Opening, Closing, and Management: 
+            - 1. Simplify and target the pain points of account opening so that the process is less troublesome and confusing. 
+            - 2. Better training for employees to emphasize specific disclosures and rules. 
+            - 3. For the mobile opening process, highlight key areas of the terms of service / disclosures either through video or quick summaries. 
+        * For Deposits and Withdrawals: 
+            - 1. Greater communication to the customer from branch representatives on why a deposit would be held up. 
+            - 2. Including on the receipt when the funds will be available as Bank of America does.
 
 
 ## References
