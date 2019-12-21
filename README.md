@@ -12,7 +12,7 @@ This repository includes the following main files:
 
 * a dataset `Consumer_Complaints.csv` used to perform the analysis.
 * a jupyter notebook that shows data cleaning and exploratory data analysis of the financial industry at-large called `exploratoryDataAnalysis.ipynb`. 
-* a jupyter notebook that shows the exploratory data analysis of a single company performed called `exploratoryDataAnalysisMTBank.ipynb`. 
+* a jupyter notebook that shows the exploratory data analysis of a single company called `exploratoryDataAnalysisMTBank.ipynb`. 
 * a jupyter notebook that shows the data cleaning process used called `cleaningData`. 
 
 
