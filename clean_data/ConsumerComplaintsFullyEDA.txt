@@ -1,0 +1,3 @@
+The fully cleaned file Consumer_Complaints_FullyEDA contains 1048574 rows and 14 columns, a file still too large for GitHub repositories.
+The features/columns of the table include: Index, DateReceived, Product, SubProduct, Issue, SubIssue, ConsumerComplaintNarrative,
+Company, State, ZipCode, SubmittedVia, CompanyResponse, TimelyResponse, ConsumerDisputed.  The file is available at request.
