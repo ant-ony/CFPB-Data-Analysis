@@ -1,7 +1,7 @@
 ## Sentiment Analysis of Consumer Financial Protection Bureau Complaints
 
 ## Introduction
-The Consumer Financial Protection Bureau receives survey data from US consumers regarding complaints against financial companies and their business practices.  This data provides informaton on complaints regarding different companies, regions, and types of products.
+The Consumer Financial Protection Bureau receives survey data from US consumers regarding complaints against financial companies and their business practices.  This data provides information on complaints regarding different companies, regions, and types of products.
 
 ## Purpose
 The purpose of this project is to analyze a CFPB dataset containing information about consumer complaints in two ways.  First, to analyze 
